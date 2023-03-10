@@ -1,8 +1,6 @@
 # Minesweeper
 Minesweeper by VanillaJS, simple but succesfully working version.
 
-You can try to play this game here: [Minesweeper](https://masha-muraveva.github.io/minesweeper)
-
 Options: 
 1. left-click = open the cell; 
 2. right-click = set 'flag', second right-click on the flag-cell = delete 'flag';
